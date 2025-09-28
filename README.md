@@ -1,5 +1,10 @@
 # Chris Galvez Resume Hub
-This repository powers my live resume site: [cg112358.github.io](https://cg112358.github.io)
 
-í³„ Contains PDF versions of my resume (ATS and Color).
-í¼ Landing page built with HTML/CSS (React/Vite integration planned).
+ğŸš€ **[ğŸ‘‰ Click here to view my Live Resume Hub](https://cg112358.github.io)** ğŸš€  
+
+This repository powers my live resume site.  
+It contains:
+- ğŸ“„ PDF versions of my resume (ATS and Color)  
+- ğŸ¨ A landing page built with HTML/CSS (React/Vite integration planned)  
+
+ï¿½ï¿½ï¿½ Landing page built with HTML/CSS (React/Vite integration planned).
